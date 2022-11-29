@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestor de Incidencias</string>
+    <string name="btnCrear">Crear</string>
+    <string name="btnAtrasCre">Atras</string>
+    <string name="btnAtrasVis">Atras</string>
+    <string name="btnVisualizar">Visualizar</string>
+    <string name="sw">Software</string>
+    <string name="hw">Hardware</string>
+</resources>

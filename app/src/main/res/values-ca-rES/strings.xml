@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestor d\'incidènies</string>
+    <string name="btnCrear">Crear</string>
+    <string name="btnAtrasCre">Enrere</string>
+    <string name="btnAtrasVis">Enrere</string>
+    <string name="btnVisualizar">Visualitzar</string>
+    <string name="sw">Software</string>
+    <string name="hw">Hardware</string>
+    <string name="userN">byhyhy</string>
+</resources>

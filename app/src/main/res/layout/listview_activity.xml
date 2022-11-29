@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/android_list_view_tutorial_with_example"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="7dp">
+
+    <LinearLayout
+        android:layout_width="367dp"
+        android:layout_height="163dp"
+        android:orientation="vertical"
+        android:padding="7dp">
+
+        <TextView
+            android:id="@+id/listViewUserName"
+            android:layout_width="352dp"
+            android:layout_height="24dp"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/listViewIncidencia"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/listViewTipo"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/listViewLocalizacion"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/listViewDescripcion"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/listViewFecha"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>
